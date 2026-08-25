@@ -1,0 +1,12 @@
+home/
+  ├── home.html
+  ├── help.html
+  ├── music/
+  │    └── songs.html
+  └── movies/
+       ├── cinema.html
+       └── action_movies/
+            └── action.html
+
+--------------------------------------------------------------
+answer here:
