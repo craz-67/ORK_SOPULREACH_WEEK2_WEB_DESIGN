@@ -9,4 +9,11 @@ home/
             └── action.html
 
 --------------------------------------------------------------
-answer here:
+answer here: 
+2. <a href="./music/songs.html"></a>
+3. <a href="./movies/action_movies/action.html"></a>
+4. <a href="../help.html"></a>
+5. <a href="../../home.html"></a>
+6. <a href="./action_movies/action.html">
+7. <a href="../movies/action_movies/action.html">
+8. <a href="../../music/songs.html">

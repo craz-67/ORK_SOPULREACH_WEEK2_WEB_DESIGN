@@ -4,9 +4,32 @@ body {
 }
 
 /* TODO 2: Style the container card */
+.container{
+  border: 1px solid black;
+  margin: 0 auto;
+  width: 450px;
+  padding: 25px;
+}
+
 
 
 /* TODO 3: Style Headings */
+#title{
+  color: blue;
+  font-style: italic;
+  font-size: x-large;
+  padding-left: 125px;
+}
 
-
+#conclu{
+  color: red;
+  font-style: italic;
+  font-size: x-large;
+}
 /* TODO 4: Style Hyperlinks and Hover States */
+a{
+  text-decoration: none;
+}
+div a:hover{
+  color: red;
+}
